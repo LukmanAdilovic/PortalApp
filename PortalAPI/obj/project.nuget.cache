@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nr84GPdTvHYtGhGGSCAKiwBm2NFkqYzCUlaccY4TIacfWWKwSJLZFgL7xA1G08Lx8HSiBJuvJ7pjGkpMS3pPRg==",
+  "dgSpecHash": "cTR1sBEKGd2a8HVN9eIf//ir1vCDCoq3Xt+e5MeMYX9EhmXmiWuV7tGR1hWUHmULhRcBFDMdjPU6GceHQXKr3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lukman\\source\\repos\\PortalAPI\\PortalAPI\\PortalAPI.csproj",
+  "projectFilePath": "C:\\Users\\Lukman\\Desktop\\portalGIT\\BackEnd\\PortalAPI\\PortalAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lukman\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lukman\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

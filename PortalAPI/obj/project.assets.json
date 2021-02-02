@@ -9907,11 +9907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lukman\\source\\repos\\PortalAPI\\PortalAPI\\PortalAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Lukman\\Desktop\\portalGIT\\BackEnd\\PortalAPI\\PortalAPI.csproj",
       "projectName": "PortalAPI",
-      "projectPath": "C:\\Users\\Lukman\\source\\repos\\PortalAPI\\PortalAPI\\PortalAPI.csproj",
+      "projectPath": "C:\\Users\\Lukman\\Desktop\\portalGIT\\BackEnd\\PortalAPI\\PortalAPI.csproj",
       "packagesPath": "C:\\Users\\Lukman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lukman\\source\\repos\\PortalAPI\\PortalAPI\\obj\\",
+      "outputPath": "C:\\Users\\Lukman\\Desktop\\portalGIT\\BackEnd\\PortalAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lukman\\AppData\\Roaming\\NuGet\\NuGet.Config",
